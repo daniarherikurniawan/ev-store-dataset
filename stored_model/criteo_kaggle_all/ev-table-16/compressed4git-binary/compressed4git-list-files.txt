@@ -1,5 +1,3 @@
-ev-1-bin.txt
-ev-1.txt
 ev-table-1.bin
 ev-table-10.bin
 ev-table-11.bin
